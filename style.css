@@ -207,6 +207,7 @@ padding:20px 0vw 50px 0vw;
  grid-template-columns:1fr 1fr 1fr 1fr 1fr;
   gap:20px;
   padding:30px 
+  padding: 50px 15vw;
 }
   .officeImage{
   padding:0px 0px 40px 0px;
@@ -218,6 +219,7 @@ padding:20px 0vw 50px 0vw;
 }
   .rat{
   margin:30px 0px 0px 0px;
+
 }
   .last{
      display:flex;
@@ -225,5 +227,6 @@ padding:20px 0vw 50px 0vw;
 
   .s3{
     padding: 0px;
+    padding: 50px 15vw;
   }
 }
