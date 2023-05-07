@@ -29,6 +29,8 @@ a {
 .s1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  background-color: #f9f9f9;
+
 }
 
 .menu {
@@ -276,7 +278,11 @@ a {
     display: grid;
     align-items: center;
   }
-
+.s1{
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
 
 
 
