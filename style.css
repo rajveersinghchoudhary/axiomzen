@@ -66,7 +66,7 @@ padding:20px 0px 50px 0px;
 .s3{
    display:grid;
   justify-items: center;
-padding: 0px 50px 0px 50px;
+/* padding: 0px 50px 0px 50px; */
 }
 
 .hello910{
@@ -183,15 +183,16 @@ grid-template-columns:1fr 1fr;
   font-size:20px;
 color: #5d5d5d;
    font-weight:300;
-margin:-20vw -50vw 0px 43vw;
+/* margin:-20vw -50vw 0px 43vw; */
   }
 .hello1{
       font-size: 30px;
   font-weight:500;
   text-align:center;
+  padding: 10px 10px 10px 10px;
 }  
   .hello2{
-padding:20px 0px 50px 0px; 
+padding:20px 0vw 50px 0vw; 
     font-size:22px;
   color:#5D5D5D;
     text-align:center;}
@@ -220,5 +221,9 @@ padding:20px 0px 50px 0px;
 }
   .last{
      display:flex;
+  }
+
+  .s3{
+    padding: 0px;
   }
 }
